@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![MonsalvoGeoffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonsalvoGeoffrey&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonsalvoGeoffrey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![MonsalvoGeoffrey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brittle_Dread)](https://github.com/anuraghazra/github-readme-stats)
