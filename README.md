@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 
 [![MonsalvoGeoffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonsalvoGeoffrey&count_private=true&show_icons=true&theme=gruvbox&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats) [![MonsalvoGeoffrey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brittle_Dread&theme=gruvbox&langs_count=5&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<details>
+  <summary>Full Language List</summary>
+  [![MonsalvoGeoffrey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brittle_Dread&theme=gruvbox&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
