@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MonsalvoGeoffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonsalvoGeoffrey&count_private=true&show_icons=true&theme=gruvbox&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats) [![MonsalvoGeoffrey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brittle_Dread&theme=gruvbox&langs_count=5&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
+[![MonsalvoGeoffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonsalvoGeoffrey&count_private=true&show_icons=true&theme=gruvbox&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats) [![MonsalvoGeoffrey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brittle_Dread&theme=gruvbox&langs_count=10&custom_title=Top%20Languages&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <details>
   <summary>Full Language List</summary>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Brittle_Dread&theme=gruvbox&custom_title=Top%20Languages"  alt="MonsalvoGeoffrey's wakatime stats" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Brittle_Dread&theme=gruvbox&custom_title=Top%20Languages&layout=compact"  alt="MonsalvoGeoffrey's wakatime stats" /></a>
 </details>
 
