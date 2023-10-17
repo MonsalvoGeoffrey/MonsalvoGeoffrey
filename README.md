@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 <details>
   <summary>Full Language List</summary>
-  [![MonsalvoGeoffrey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brittle_Dread&theme=gruvbox&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Brittle_Dread&theme=gruvbox&custom_title=Top%20Languages"  alt="MonsalvoGeoffrey's wakatime stats" /></a>
 </details>
 
